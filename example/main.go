@@ -1,11 +1,11 @@
 package main
 
 import (
-	"os"
-	"fmt"
 	"bufio"
-	"strings"
+	"fmt"
 	"github.com/stdi0/calc"
+	"os"
+	"strings"
 )
 
 func main() {
